@@ -1,1 +1,3 @@
 decelop-fixed
+
+ローカル変更
